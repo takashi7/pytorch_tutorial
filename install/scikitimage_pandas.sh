@@ -1,4 +1,4 @@
 #! /bin/bash
 
-sudo pip3 install scikit-image
-sudo pip3 install pandas
+pip3 install scikit-image --user
+pip3 install pandas --user
